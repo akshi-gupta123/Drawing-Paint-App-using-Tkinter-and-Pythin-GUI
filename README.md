@@ -1,1 +1,1 @@
-# Drawing-Paint-App-using-Tkinter-and-Pythin-GUI
+# Drawing-Paint-App-using-Tkinter-and-Python-GUI
